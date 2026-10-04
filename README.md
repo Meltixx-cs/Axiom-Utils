@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="glossy_neon_aou_crosshair_emblem.png" alt="AxiomUtils Logo" width="300">
+  <img src="AUIcon.png" alt="AxiomUtils Logo" width="300">
 </p>
