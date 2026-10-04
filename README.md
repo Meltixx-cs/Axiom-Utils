@@ -7,7 +7,7 @@ AxiomUtils
     <img src="https://img.shields.io/discord/1553209015276929144?label=Discord%20Online&logo=discord&logoColor=white" alt="Discord Online">
   </a>
   <a href="[https://github.com/GITHUB_USER/GITHUB_REPO/releases/latest](https://github.com/Meltixx-cs/Axiom-Utils/releases/tag/GorillaTag)">
-    <img src=["https://img.shields.io/github/downloads/GITHUB_USER/GITHUB_REPO/total?label=Downloads&logo=github" alt="Downloads"](https://img.shields.io/github/downloads/Meltixx/AxiomUtils/total)>
+    <img src=["https://img.shields.io/github/downloads/GITHUB_USER/GITHUB_REPO/total?label=Downloads&logo=github" alt="Downloads"](https://img.shields.io/github/downloads/Meltixx/Axiom-Utils/total)>
   </a>
   <a href="[https://github.com/GITHUB_USER/GITHUB_REPO/releases/latest](https://github.com/Meltixx-cs/Axiom-Utils/releases/tag/GorillaTag)">
     <img src="https://img.shields.io/github/v/release/GITHUB_USER/GITHUB_REPO?label=Latest%20Release&logo=github" alt="Latest Release">
