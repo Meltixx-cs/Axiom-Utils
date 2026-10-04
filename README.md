@@ -1,12 +1,12 @@
 AxiomUtils
 <p align="center">
-  <b>A polished Gorilla Tag utilities pad + mod checker built for PCVR.</b>
+  <b>Very good utilities and mod checking
 </p>
 <p align="center">
   <a href="https://discord.gg/tXvR3b2Qm">
     <img src="https://img.shields.io/discord/1553209015276929144?label=Discord%20Online&logo=discord&logoColor=white" alt="Discord Online">
   </a>
-  <a href="[https://github.com/GITHUB_USER/GITHUB_REPO/releases](https://github.com/Meltixx-cs/Axiom-Utils/releases/tag/GorillaTag)">
+  <a href="[https://github.com/Meltixx-cs/Axiom-Utils/releases/tag/GorillaTag)">
     <img src="https://img.shields.io/github/downloads/GITHUB_USER/GITHUB_REPO/total?label=Downloads&logo=github" alt="Downloads">
   </a>
   <a href="[https://github.com/GITHUB_USER/GITHUB_REPO/releases/latest](https://github.com/Meltixx-cs/Axiom-Utils/releases/tag/GorillaTag)">
