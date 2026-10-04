@@ -18,3 +18,5 @@ AxiomUtils
   •
   <a href="[https://github.com/GITHUB_USER/GITHUB_REPO/releases/latest](https://github.com/Meltixx-cs/Axiom-Utils/releases/tag/GorillaTag)"><b>Download Latest Release</b></a>
 </p>
+
+Very good mod checker/utils pad detecting over 150 mods its obfuscated so you can open it in dnspy if you dont trust
